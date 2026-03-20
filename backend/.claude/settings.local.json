@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./venv/Scripts/python manage.py runserver:*)",
+      "Bash(echo:*)",
+      "Bash(./venv/Scripts/python.exe manage.py runserver:*)",
+      "Bash(\"C:/Users/ASUS/OneDrive/Documents/harshal/Multivendor Food Ecom/backend/venv/Scripts/python.exe\" \"C:/Users/ASUS/OneDrive/Documents/harshal/Multivendor Food Ecom/backend/manage.py\" check)",
+      "Bash(\"C:/Users/ASUS/OneDrive/Documents/harshal/Multivendor Food Ecom/backend/venv/Scripts/python.exe\" \"C:/Users/ASUS/OneDrive/Documents/harshal/Multivendor Food Ecom/backend/manage.py\" runserver)",
+      "Bash(\"C:/Users/ASUS/OneDrive/Documents/harshal/Multivendor Food Ecom/backend/venv/Scripts/python.exe\":*)"
+    ]
+  }
+}
